@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Umar
 
- ### Artificial Intelligence & Machine Learning Enthusiast
+ ### AI/ML Engineer | Developing Intelligent AI Solutions
  
  ### ML Models Development | Data Preprocessing | API Integration
 
