@@ -1,68 +1,85 @@
-### Hi, I'm Muhammad Umar
+# 👋 Hi there, I'm Muhammad Umer!
 
- ### AI/ML Engineer | Developing Intelligent AI Solutions
- 
- ### ML Models Development | Data Preprocessing | API Integration
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;AI+Solutions+Developer;Python+Expert" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile!
-I build Machine Learning models, create data preprocessing pipelines, and I’m actively learning AI model development & API development.
+---
 
- ### Skills & Technologies
- 
- ### **Programming**
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+### **🚀 About Me**
+I am a **Data Scientist** with 2 years of hands-on experience in building real-world machine learning models and deriving actionable insights from data. I specialize in **Python**, data preprocessing, feature engineering, exploratory data analysis (EDA), and advanced ML models such as regression, classification, and clustering.
 
- ### **Data & ML Libraries**
- 
- <p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-214477?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </p>
+- 🔭 I’m currently working as a **Data Science Project Contributor** at **AfterQuery Experts**.
+- 🌱 I’m continuously expanding my skills into **ML Engineering**, deployment, and advanced AI technologies.
+- 💬 Ask me about **Machine Learning Pipelines, Data Analysis, or Python**.
+- 📫 How to reach me: **hiumar937@gmail.com**
 
-  ### Machine Learning
+---
 
-Supervised Learning (Regression & Classification)
+### **🛠️ Tech Stack & Skills**
 
-Feature Engineering
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+</p>
 
-Model Training & Evaluation
+- **Core Competencies:** 
+  - **Machine Learning:** Regression, Classification, Clustering, Anomaly Detection.
+  - **Data Engineering:** ML Pipelines, Data Cleaning, Outlier Treatment, Feature Scaling.
+  - **Analysis:** Exploratory Data Analysis (EDA), Hyperparameter Tuning, Metric Analysis (F1-Score, RMSE, Silhouette Score).
 
-Data Cleaning & Preprocessing
+---
 
-### APIs
+### **💼 Professional Experience**
 
-Basic API development using FastAPI & Flask
+- 🏢 **AfterQuery Experts** | *Data Science Project Contributor* (March 2026 - Present)
+- 🏢 **HexSoftwares** | *Data Scientist* (Feb 2026)
+- 🏢 **Syntecxhub** | *Data Scientist* (Jan 2026 - Feb 2026)
+- 🏢 **Sysslan IT Solutions** | *Data Scientist* (Jan 2026)
+- 🏢 **CodeAlpha** | *Data Scientist* (Dec 2025 - Jan 2026)
+  - Developed **Salary Prediction** (Regression) and **Credit Fraud Detection** (Classification) models.
+  - Optimized models using cross-validation and hyperparameter tuning.
 
-### Tools
+---
 
-<p> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-FFBB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+### **📜 Certifications**
+- 🏆 **Python Certification**
+- 🏆 **Data Science Foundations - Level 1**
+- 🏆 **Problem Solving Certificate**
 
-### GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmar-official&show_icons=true&theme=tokyonight" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmar-official&layout=compact&theme=tokyonight" /> </p>
-          
-    
-  ### Feactures
-    
-                                                                                                                                                                            
-🔹 House Price Prediction Model
+---
 
-🔹 Student Marks Prediction Model
+### **📊 GitHub Stats**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-umar-ai-ml&show_icons=true&theme=blue-green" alt="Muhammad Umer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-ai-ml&layout=compact&theme=blue-green" alt="Top Languages" />
+</p>
 
-🔹 Supervised ML Models Collection
+---
 
-🔹 Data Preprocessing Pipelines
+### **📫 Connect with Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-umar-ai-ml" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadumarbinabdulkhaliq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🔹 Python Mini Projects
+---
 
-🔹 Data Profiling App
-
-### Contact
-
-GitHub: **MuhammadUmar-official**
-
-Email: **hiumar937@gmail.com**
-
-LinkedIn: **http://www.linkedin.com/in/muhammad-umar-a28425365**
-
-<p align="center"> ⭐ *Thanks for visiting! I'm learning AI step by step and sharing my ML journey through projects.* </p>
-
-
+*"Turning raw data into intelligent solutions."*
