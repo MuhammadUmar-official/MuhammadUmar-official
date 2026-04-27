@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Umer!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;AI+Solutions+Developer;Python+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Data+Scientist;Data+ Analyst;Machine+Learning+Engineer;AI+Solutions+Developer;Python+Expert" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,18 +47,18 @@ I am a **Data Scientist** with 2 years of hands-on experience in building real-w
 
 - 🏢 **AfterQuery Experts** | *Data Science Project Contributor* (March 2026 - Present)
 - 🏢 **HexSoftwares** | *Data Scientist* (Feb 2026)
-- 🏢 **Syntecxhub** | *Data Scientist* (Jan 2026 - Feb 2026)
-- 🏢 **Sysslan IT Solutions** | *Data Scientist* (Jan 2026)
+- 🏢 **Xeven Solutions** | *Data Scientist* (Jan 2025 - Feb 2026)
+- 🏢 **Freelance** | *Data Scientist* (Apr 2025 - Present)
 - 🏢 **CodeAlpha** | *Data Scientist* (Dec 2025 - Jan 2026)
-  - Developed **Salary Prediction** (Regression) and **Credit Fraud Detection** (Classification) models.
+  - Developed **Salary Prediction** (Regression) and **Credit Fraud Detection** (Classification) models and so on.
   - Optimized models using cross-validation and hyperparameter tuning.
 
 ---
 
 ### **📜 Certifications**
-- 🏆 **Python Certification**
-- 🏆 **Data Science Foundations - Level 1**
-- 🏆 **Problem Solving Certificate**
+- 🏆 **Python Certification** from *HackerRank*
+- 🏆 **Data Science Foundations** from *IBM*
+- 🏆 **Problem Solving Certificate** from *HackerRank*
 
 ---
 
