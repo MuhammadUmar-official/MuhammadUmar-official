@@ -62,11 +62,13 @@ I am a **Data Scientist** with 2 years of hands-on experience in building real-w
 
 ---
 
-### **📊 GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-umar-ai-ml&show_icons=true&theme=blue-green" alt="Muhammad Umer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-ai-ml&layout=compact&theme=blue-green" alt="Top Languages" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-umar-ai-ml&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-ai-ml&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
