@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Umer!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Data+Scientist;Data+ Analyst;Machine+Learning+Engineer;AI+Solutions+Developer;Python+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;AI+Solutions+Developer;Python+Expert" />
 </p>
 
 ---
